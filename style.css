@@ -1,0 +1,14 @@
+.record-btn{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: rgb(12, 55, 245);
+    color: aliceblue;
+    border: 1px solid rgb(12, 55, 245);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    margin-left:640px;
+}
